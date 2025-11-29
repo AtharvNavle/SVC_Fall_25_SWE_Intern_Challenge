@@ -25,3 +25,8 @@ dist-ssr
 
 .config/
 !.env
+
+# Coverage reports
+coverage/
+*.lcov
+.nyc_output
